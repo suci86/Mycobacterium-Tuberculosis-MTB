@@ -1,4 +1,4 @@
-# AFB Second-Stage Detection
+# Mycobacterium Tuberculosis (MTB)
 
 This repository contains source code and Jupyter notebooks for the second-stage
 classification of Acid-Fast Bacilli (AFB) microscopy images.
